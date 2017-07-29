@@ -5,6 +5,9 @@
   "repository": "https://chutiphon-k@github.com/chutiphon-k/eslint-config-chutiphonk.git",
   "author": "Chutiphon.k <chutiphon.k@ku.th>",
   "license": "MIT",
+  "scripts": {
+    "test": "eslint ."
+  },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "eslint": "^4.3.0",
