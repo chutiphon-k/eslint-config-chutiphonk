@@ -10,7 +10,7 @@
 - Add eslint-config-chutiphonk to .eslintrc
 ```json
 	{
-		extends: "chutiphonk"
+		"extends": "chutiphonk"
 	}
 ```
 
