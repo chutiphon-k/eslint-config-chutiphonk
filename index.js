@@ -8,7 +8,9 @@ module.exports = {
 	'rules': {
 		'no-tabs': 'off',
 		'indent': ['error', 'tab', { 'SwitchCase': 1 }],
-		'no-console': 'warn'
+		'no-console': 'warn',
+		'import/newline-after-import': 'error',
+		'import/order': 'error'
 	},
 	'parserOptions': {
 		'ecmaVersion': 6,
